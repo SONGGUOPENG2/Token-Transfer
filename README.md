@@ -1,7 +1,7 @@
 # Token-Transfer
 归集任意BNB Smart Chain区块链代币、分发任意bsc区块链代币，支持混淆功能。更多功能例如批量查询余额、余额排序、批量生成子地址尽在其中。
 # Windows版本软件地址
-https://drive.google.com/drive/folders/182VAx46uvXQVm4gYXErpUFvVQldD7byi
+https://github.com/SONGGUOPENG2/Token-Transfer/releases
 
 相关系列软件地址：
 https://drive.google.com/drive/folders/1-04YEI42YL5oc5Z5mLs0IQV6yeOow8m2
@@ -18,5 +18,7 @@ https://drive.google.com/drive/folders/1-04YEI42YL5oc5Z5mLs0IQV6yeOow8m2
 # 软件截图
 ![IMG_20250607_183658](https://github.com/user-attachments/assets/d5d7d43c-4a55-4805-aef5-49dbdb4bfed4)
 ![2025-06-12-16-35-44](https://github.com/user-attachments/assets/fc3cceed-e2c2-4b47-8bf5-dae87debe20f)
-# 版本
-2025-06-10-Windows10-x64-FinalVersion
+# 系列软件
+https://github.com/SONGGUOPENG2?tab=repositories
+
+一个区块链激活码，畅享所有SONGGUOPENG.Software (区块链激活码由SONGGUOPENG.Software全自动处理，只需一键扫码支付，自动验证和加载身份）
